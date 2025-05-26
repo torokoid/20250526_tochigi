@@ -182,7 +182,7 @@ p.note { display: none; }
 <h2><span class="yellow">庭の薔薇は満開です</span></h2>
 <a href="20250526_026.JPG" target="_blank"><img src="20250526_026.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">お散歩を上から見守る鳩さんたち</span></h2>
+<h2><span class="yellow">26日は、お散歩を上から見守る鳩さんたちから</span></h2>
 <a href="20250526_027.JPG" target="_blank"><img src="20250526_027.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">ご近所の薔薇たちも満開ですね</span></h2>
